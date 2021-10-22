@@ -1,5 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I am a Versatilist, doing SW/SR/DevOps Engineering things</h3>
+<h1 align="left" id="macropower-title">:wave: Hola! Soy Natanael Peralta </h1>
+<h3 align="left">Soy Developer Web Full-Stack</h3>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
@@ -42,36 +42,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -87,12 +57,6 @@
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
   </tr>
   <tr>
@@ -116,18 +80,6 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
         <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
@@ -140,49 +92,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="PostgresQL" />
       </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
+      <br>PostgresQL
     </td>
   </tr>
 </table>
 
 <h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-   797.5 hr  ┤                                                                   ╭─────────────────────────────── 
-   797.3 hr  ┤                                                                 ╭─╯                                
-   797.1 hr  ┤                                                         ╭───────╯                                  
-   796.8 hr  ┤                                                      ╭──╯                                          
-   796.6 hr  ┤                                                      │                                             
-   796.4 hr  ┤                                                      │                                             
-   796.1 hr  ┤                                                     ╭╯                                             
-   795.9 hr  ┤                                                     │                                              
-   795.7 hr  ┤                                                    ╭╯                                              
-   795.4 hr  ┤          ╭─────────────────────────────────────────╯                                               
-   795.2 hr  ┤       ╭──╯                                                                                         
-   795.0 hr  ┤ ╭─────╯                                                                                            
-   794.7 hr  ┼─╯                                                                                                  
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[linkedin]: https://www.linkedin.com/in/nataperalta "Jacob Colvin LinkedIn"
