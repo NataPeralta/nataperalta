@@ -79,5 +79,4 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/nataperalta "Natanael Peralta LinkedIn"
-[Email]: href="mailto:natafraperalta@gmail.com" "Natanael Peralta Gmail"
 
