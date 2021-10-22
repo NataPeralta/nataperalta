@@ -7,6 +7,7 @@
 
 - :office: &nbsp;Trabajo habitualmente con **Javascript**
 - :computer: &nbsp;Podes encontrarme en **[LinkedIn]**
+- - :computer: &nbsp;Cualquier consulta enviame un **[Email]**
 
 <br>
 
@@ -79,4 +80,5 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/nataperalta "Natanael Peralta LinkedIn"
+[Email] : href="mailto:jessicalim813@gmail.com" "Natanael Peralta Gmail"
 
