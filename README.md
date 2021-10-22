@@ -42,13 +42,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
       </a>
       <br>React
     </td>
