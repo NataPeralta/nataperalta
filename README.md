@@ -58,9 +58,9 @@
     </td>
     <td align="center" width="96">
       <a href="#nata-peralta" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="48" height="48" alt="Sequelize" />
       </a>
-      <br>Grafana
+      <br>Sequelize
     </td>
     <td align="center" width="96">
       <a href="#nata-peralta" >
