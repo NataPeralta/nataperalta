@@ -7,9 +7,7 @@
 
 - :office: &nbsp;Trabajo habitualmente con **Javascript**
 - :computer: &nbsp;Podes encontrarme en **[LinkedIn]**
-- - :computer: &nbsp;Cualquier consulta enviame un **[Email]**
-
-<br>
+- 📧  natafraperalta@gmail.com
 
 <h3 align="left" id="nata-peralta">Tecnologias con las que trabajo</h3>
 
@@ -80,5 +78,5 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/nataperalta "Natanael Peralta LinkedIn"
-[Email] : href="mailto:jessicalim813@gmail.com" "Natanael Peralta Gmail"
+[Email]: href="mailto:natafraperalta@gmail.com" "Natanael Peralta Gmail"
 
