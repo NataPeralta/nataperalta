@@ -7,7 +7,7 @@
 
 - :office: &nbsp;Trabajo habitualmente con **Javascript**
 - :computer: &nbsp;Podes encontrarme en **[LinkedIn]**
-- 📧  natafraperalta@gmail.com
+- 📧 natafraperalta@gmail.com
 
 <h3 align="left" id="nata-peralta">Tecnologias con las que trabajo</h3>
 
