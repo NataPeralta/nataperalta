@@ -15,12 +15,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#nata-peralta">
-        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="node"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <a href="#nata-peralta" >
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="node"/>
       </a>
@@ -34,10 +28,18 @@
     </td>
     <td align="center" width="96">
       <a href="#nata-peralta">
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="node"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#nata-peralta">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="node"/>
       </a>
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#nata-peralta" >
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="node" />
@@ -72,3 +74,4 @@
 </table>
 
 [linkedin]: https://www.linkedin.com/in/nataperalta "Natanael Peralta LinkedIn"
+
