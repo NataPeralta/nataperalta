@@ -77,13 +77,13 @@
   </td>
       <td align="center" width="96">
     <a href="#nata-peralta" >
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="Hubspot" />
+      <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" width="48" height="48" alt="Hubspot" />
     </a>
     <br>Hubspot
   </td>
   <td align="center" width="96">
     <a href="#nata-peralta" >
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="Shopify" />
+      <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="48" height="48" alt="Shopify" />
     </a>
     <br>Shopify
   </td>
