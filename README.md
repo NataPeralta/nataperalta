@@ -6,7 +6,7 @@
 
 <h3 align="left">Soy Developer Web Full-Stack</h3>
 
-- :office: &nbsp;Trabajo habitualmente con **Javascript** y **Hubspot Api**
+- :office: &nbsp;Trabajo habitualmente con **Javascript** y **Hubspot API**
 - :computer: &nbsp;Podes encontrarme en **[LinkedIn]**
 - 📧 natafraperalta@gmail.com
 
